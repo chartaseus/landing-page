@@ -1,2 +1,6 @@
 # landing-page
-A landing page project from The Odin Project
+A landing page project from The Odin Project foundation course.
+
+The instruction is to create a landing page that looks like this:
+
+![landing page](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
