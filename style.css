@@ -145,3 +145,30 @@ button {
   font-weight: bold;
   padding-right: 32px;
 }
+
+.cta-box {
+  background-color: #3882f6;
+  padding: 50px 100px;
+  border-radius: 8px;
+  display: flex;
+}
+
+.cta-text {
+  flex: 1;
+}
+
+.cta-text h3 {
+  color: #f9faf8;
+  margin: 0;
+  font-size: 24px;
+}
+
+.cta-text p {
+  color: #e5e7eb;
+  font-size: 18px;
+  margin: 0;
+}
+
+.cta-box button {
+  border: 1px solid #f9faf8;
+}
