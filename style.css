@@ -14,13 +14,21 @@ body > * {
   padding-right: 10%;
 }
 
-header {
+header, footer {
   background-color: #1f2937;
   padding-top: 16px;
   padding-bottom: 16px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: #e5e7eb;
+}
+
+footer {
+  justify-content: center;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  font-size: 18px;
 }
 
 .logo {
